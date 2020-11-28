@@ -1,3 +1,12 @@
+- Idyll https://idyll-lang.org/gallery - Markdown for the text and React components for the interactive parts
+- Iooxa https://row1.ca/explorables - web components for the interactive parts
+- http://bollwyvl.github.io/TangleDown/
+- http://jotux.github.io/fangle/
+
+- https://groups.google.com/forum/#!topic/tangle-talk/i75OgfJclOQ
+- https://web.archive.org/web/20160109121335/http://activemarkdown.org/
+
+
 # markdown-data-embedder README
 
 This is the README for your extension "markdown-data-embedder". After writing up a brief description, we recommend including the following sections.
